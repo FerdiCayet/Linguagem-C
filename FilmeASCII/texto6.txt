@@ -1,0 +1,115 @@
+
+
+       @@@
+       @Q#@
+       @R##@
+       @#RRQ@
+       @@R###@
+        @RS#RR@
+         @@QQRR@
+       @RRR@#GS#R@
+       @@RRR#SS##R@
+         @@@##QGQR#@
+         @RR#Q#QSG#R@
+        @RR#QQQ#QS###@
+       @#RR#RRR##SGS#R@
+       @RR@@@@@R#QGSR#@
+               @R#QGG##@
+               @R#QGS#QQR@
+               @RR#QSQQQ#@
+                @###GGR#SQR@
+                @QS#QSGS#RRR@
+                @RQ#SGRRRRRR@
+                @RSG#QOOOOOOe@
+                @R#Q#eeQeOOOOR@              @@@@@@
+                 @RQS#eOeeOOOOR@       @@@@#SS#GGQGSQ@
+                  @RQQ#eOOOOOOOeRR@@@#SSR@Q6QR#QQR#QS#Q@
+                  @@R#QeOOOOOOOOe#RRRQSQR@%/%QRSS#S###GR@
+                    @RRRQOOOOOOOOQ#SS#QGQRQ%//6eR#GSQQ#S@
+                     @RRROOOOOOOR#R#QSSQSSRRRRRRQQS#GGSR@
+                      @@ReOOOOOO@Q##GGGQQQ##QQQ####SGSQ#@
+                        @ReOOOOO#R#SQQSG#QGSQQ#SGGS##GG#@
+                        @RQOOOOOeR#SGSSQQSSSSQQSSS###GSR@
+                          @ROOOOO#QR#SS##QSGSQ##SGGSRR@@
+                           @ROOOeRGR#R##QSGGGGR#GG#R@
+                           @@QOORQG#QRQ#RRSGGSRQGGQ@
+                             @Re#GQQSQRQSQ#QGGQ####@
+                              @@R#RQGS#QGG#QGGSQGGSR@
+                               @S###QGQQ##RQGGSQGGGR@
+                              @RSQQGS#RSGGQSGQQ###Q#Q@
+                              @Q##GGG###SQ#GGG##SGGQG@
+                              @S#SQRGGGGQQGS#RR#SGGQ##@
+                              @#QQQRRSQQR#RQQQ#QQGGQ#GQ@
+                              @R##R@R#RQ#RR##R#Q###RSGS@@
+                              @QQ#RRRRQ#R#GS#SGGGS#R#Q#R@
+   @@                         @RSGSSQQG##QQ#QGQQSSQGGQReR@
+   @R@                        @#S#GGQ#G##GSQGGGS#RQGG#eOR@
+   @R#@                       @#G##Q#SR###QQSGGQSSS##eOOR@
+   @#R#@                      @#QRGS###QQ#QQQSQQSGGQQOOOR@
+   @@RRR@                     @RQ#SGR#QSQSGGGQQQSQQeOOOeR@
+    @RRR#R@              @RRQeeRQ#SR#SS##QQQ#QGGQ#eeOOOeR@
+    @@RRQRR@            @RQeeOOeQRQRSGQSGGGS#SGSQQQKOOO#@@
+      @@QQ##@          @ReOOOOOOOeR#RR###SGQSGQ#RQeOOOOR@
+        @@Q#R#R@@  @@@RReOOe###eOOOeQRQGGG#RQG#RRQOOOOeR@
+         @RG##RRR@@R####eOOQReeeeOOOeQ##GG#Q#QQRQeOOOOe@
+     @@@@RRQGG#SQ##R##QOOOOOOOOOOOOOOOOQR@#GGQR#eOOOOOe@
+    @#RRRQQ#QQ#SQSGGQ#eOOOOOOOOOOOOOOOOeRR#SGQ#QOOOOOOQ@
+    @#@@@@QRQQ#RRRRRR#OOOOOOOOOOOOOOOOOOOe#S#R#eOOOOOe@
+                 @@RReOOOOOOOOeQOOOOOOOOOOQRReOOOOOOOe@
+                  @ReOOOOOOOOOe#OOOOOOOOOOeRQeOOOOOOOQ@
+                  @eOOOOOOOOOOQeOOOOOOOOOOOeR#####RR##@
+                 @#eOOOOOOOOOeReOOOOOOOOOOOOe#RR#QQ#R@
+                 @eOOOOOOOOOOeROOOOOOOOOOOOOeRRQ#SSS#@
+                @RReOOOOOOOOO##OOOOOOOOOOOOOOe####ReQR@
+                @RR#OOOOOOOOeReOOOOOOOOOOOOOOe#QeeeOeR@
+    @@          @R#QSQ#QQQ##RReOOOOOOOOOOOOOOOeeeOOOOQ@
+   @RQ@         @QQSQ##SSQRR@@#OOOOOOOOOOOOOOOOOOOOOOQ@
+  @@QSR@        @#GGSQQSQR@@ RROOOOOOOOOOOOOOOOOOOOOeR@
+  @@QSRR@      @#QSQ#QQQR@@  RRQOOOOOOOOOOOOOOOOOOOOeR@
+  @RSQRSRR@    @RSGQQGSR@  RR#eQeOOOOOOOOOOOOOOOOOOeQ@
+  @RGSRQ###@@ @##QSQSGQR@  RReO#ROOOOOOOOOOOOOOOOOOeR@
+  @R##SSR#S##RR##GQ###R@  RQOOOOQQeOOOOOOOOOOOOOOOeR@
+  @@RGGG#RQRGRR#QS#QGQR@ @ReOOOOOQQOOOOOOOOOOOOOOeR@
+   @RQGQQG###Q##GQ#Q#R@ RQeOOOOOOOOQRQOOOOOOOOOQR@
+     @RSGSQG#GQ###GS#R @ReOOOOOOOOOOOOe#RRRRRR@
+      @@@#GGQGQGSQGS#R@ReOOOOOOOOOOOOOOOOOOOQR@
+         @@#QRRRQGG##@ReOOOOOOOOOOOOOOOOOOOR@
+           @@@QGSS#R@R#OOOOOOOOOOOOOOOOOOeR@
+             @@RR@R@@ReOOOOOOOOOOOOOOOOOOQR@
+                    @eOOOOOOOOOOOOOOOOOeR@
+                   @ROOOOOOOOOOOOOOOOOO#R@
+                  @RReOOOOOOOOOOOOOOOeR@
+                 @RQReOOOOOOOOOOOOOeR@
+                 @QeReOOOOOOOOOOOO#R@
+                @QOQeOOOOOOOOOOee@@
+                @Oe#eOOOOOOOOe#@
+                @OQeOOOOOOOOOe@
+                @OOOOOOOOOOOe@
+                @eOOOOOOOOOOe@
+                @eOOOOOOOOOOe@
+                @#OOOOOOOOOOe@@
+                @ReOOOOOOOOOeR@
+                @ReOOOOOOOOOOe@
+                @ReOOOOOOOOOOe@
+                @ReOOOOOOOOOOe@
+                @ReOOOOOOOOOOe@
+                @@QOOOOOOOOOe#@
+                @@#QQ########R@
+                 @RQ##SGGQQS#@
+                 @#QQRQSQQQ#R@
+                 @#GG#QGGQ##@
+                 @#####S#Q#@
+                 @RSQRRQRRR@
+                 @#SS#GGSQR@
+                 @#Q##GGSR@@
+                 @#G####RR@
+                 @RG#QGGQR@
+                @@RQ#QQSQR@
+    @#QR@    @RR#SSR#GGG#R@
+   @RQ#RR@@RRG##R##RGSQ##R@
+   @RSQRQRRS##RRRSGSQGS##R@
+   @R#SS#RR#G#GGGQSGG#S#RR@
+   @R#GG#SQRGSRGGG#GG##QR@@
+    @RRQGGG#Q#@RR@#QQQGG#@
+     @@RRR@@@@@@@@@@@@@@@
+      @@@@@
